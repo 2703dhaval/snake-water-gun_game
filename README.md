@@ -1,4 +1,4 @@
 # snake-water-gun_game
 this is my first get repository
-\n
+<br>
 auther - dhaval parmar
